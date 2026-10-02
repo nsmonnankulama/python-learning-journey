@@ -1,7 +1,6 @@
 # Python for QA Automation 🐍
 
-My hands-on Python learning repository, created while following the **Python Full Course** by [Bro Code](https://www.youtube.com/@BroCodez).
-
+My hands-on Python learning repository,
 The goal of this repository is not only to watch the course, but to **write, practice, experiment with, and build small projects** while learning Python.
 
 This knowledge will be used as a foundation for my future **QA Automation / SDET** work, especially with Python, Pytest, Playwright, API testing, and CI/CD.
