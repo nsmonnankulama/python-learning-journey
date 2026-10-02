@@ -1,6 +1,6 @@
 # Python Learning Journey 🐍
 
-This repository contains my Python learning journey, including examples, exercises, notes, and small projects.
+This repository contains my **Python learning journey**, including examples, exercises, notes, and small projects.
 
 I'm learning Python step by step and using this repository to:
 
@@ -15,14 +15,14 @@ I'm learning Python step by step and using this repository to:
 * Build a strong foundation in Python
 * Understand Python syntax and programming concepts
 * Practice by writing code for each topic
+* Experiment with different concepts
 * Build small projects to apply what I learn
 * Improve problem-solving skills
-* Prepare Python knowledge for QA automation
-* Later apply Python with Pytest, Playwright, API testing, and CI/CD
+* Share my knowledge and learning journey with others
 
 ## 🗂️ Topics Covered
 
-### Python Basics
+### 01. Python Basics
 
 * Python syntax
 * Variables
@@ -34,7 +34,7 @@ I'm learning Python step by step and using this repository to:
 * String indexing
 * Format specifiers
 
-### Control Flow
+### 02. Control Flow
 
 * `if` statements
 * Logical operators
@@ -44,7 +44,7 @@ I'm learning Python step by step and using this repository to:
 * Nested loops
 * `match-case`
 
-### Collections
+### 03. Collections
 
 * Lists
 * Tuples
@@ -55,7 +55,7 @@ I'm learning Python step by step and using this repository to:
 * Membership operators
 * List comprehensions
 
-### Functions
+### 04. Functions
 
 * Functions
 * Default arguments
@@ -65,7 +65,7 @@ I'm learning Python step by step and using this repository to:
 * Scope
 * `if __name__ == "__main__"`
 
-### Object-Oriented Programming
+### 05. Object-Oriented Programming
 
 * Classes
 * Objects
@@ -81,7 +81,7 @@ I'm learning Python step by step and using this repository to:
 * `@property`
 * Decorators
 
-### Error & File Handling
+### 06. Exceptions & File Handling
 
 * Exception handling
 * File detection
@@ -89,16 +89,17 @@ I'm learning Python step by step and using this repository to:
 * Reading files
 * Dates and times
 
-### Other Topics
+### 07. Other Topics
 
 * Random numbers
 * Multithreading
 * API requests
-* PyQt5 GUI development
+* PyQt5
+* GUI development
 
 ## 🚀 Mini Projects
 
-The repository includes hands-on projects such as:
+As I progress through the course, I will build small projects to practice what I learn.
 
 * [ ] Mad Libs Game
 * [ ] Calculator
@@ -121,13 +122,9 @@ The repository includes hands-on projects such as:
 
 The checklist will be updated as I complete each project.
 
-## 🛠️ Tools
+## 📂 Repository Structure
 
-* Python
-* Git
-* GitHub
-* PyCharm / VS Code
-
+```text
 python-learning-journey/
 │
 ├── 01_basics/
@@ -177,9 +174,35 @@ python-learning-journey/
 │
 ├── requirements.txt
 └── README.md
+```
+
+## 🛠️ Tools
+
+* Python
+* Git
+* GitHub
+* PyCharm / VS Code
 
 ## 📌 Progress
 
-This repository is continuously updated as I progress through the course.
+This repository is continuously updated as I progress through my Python learning journey.
 
-> Learn → Code → Experiment → Build → Commit → Improve
+My learning approach:
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Practice
+  ↓
+Experiment
+  ↓
+Build
+  ↓
+Share
+  ↓
+Improve
+```
+
+> **Learn something. Build something. Share something. 🐍**
