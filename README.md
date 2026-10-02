@@ -1,9 +1,14 @@
-# Python for My Learn & Knowledge Sharing 🐍
+# Python Learning Journey 🐍
 
-My hands-on Python learning repository,
-The goal of this repository is not only to watch the course, but to **write, practice, experiment with, and build small projects** while learning Python.
+This repository contains my Python learning journey, including examples, exercises, notes, and small projects.
 
-This knowledge will be used as a foundation for my future **QA Automation / SDET** work, especially with Python, Pytest, Playwright, API testing, and CI/CD.
+I'm learning Python step by step and using this repository to:
+
+* Practice what I learn
+* Keep track of my progress
+* Experiment with different Python concepts
+* Build small projects
+* Share my learning with others
 
 ## 🎯 Learning Goals
 
