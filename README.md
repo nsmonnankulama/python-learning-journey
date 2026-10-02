@@ -1,4 +1,4 @@
-# Python for QA Automation 🐍
+# Python for My Learn & Knowledge Sharing 🐍
 
 My hands-on Python learning repository,
 The goal of this repository is not only to watch the course, but to **write, practice, experiment with, and build small projects** while learning Python.
