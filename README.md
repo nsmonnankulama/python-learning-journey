@@ -128,6 +128,56 @@ The checklist will be updated as I complete each project.
 * GitHub
 * PyCharm / VS Code
 
+python-learning-journey/
+│
+├── 01_basics/
+│   ├── variables.py
+│   ├── type_casting.py
+│   ├── user_input.py
+│   └── arithmetic.py
+│
+├── 02_control_flow/
+│   ├── if_statements.py
+│   ├── logical_operators.py
+│   └── loops.py
+│
+├── 03_collections/
+│   ├── lists.py
+│   ├── tuples.py
+│   ├── sets.py
+│   └── dictionaries.py
+│
+├── 04_functions/
+│   ├── functions.py
+│   ├── default_arguments.py
+│   ├── keyword_arguments.py
+│   └── args_kwargs.py
+│
+├── 05_oop/
+│   ├── classes.py
+│   ├── inheritance.py
+│   ├── polymorphism.py
+│   └── decorators.py
+│
+├── 06_exceptions_files/
+│   ├── exceptions.py
+│   ├── write_files.py
+│   └── read_files.py
+│
+├── 07_api/
+│   └── request_api.py
+│
+├── projects/
+│   ├── madlibs/
+│   ├── calculator/
+│   ├── shopping_cart/
+│   ├── quiz_game/
+│   ├── banking/
+│   └── weather_api/
+│
+├── requirements.txt
+└── README.md
+
 ## 📌 Progress
 
 This repository is continuously updated as I progress through the course.
